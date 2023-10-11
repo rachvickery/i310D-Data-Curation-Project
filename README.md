@@ -3,7 +3,7 @@ In this assignment, my primary objective was to craft a meaningful and informati
 
 **Links to website I used for data scraping:** https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue 
 
-**The license of your data and any source data:** N/A
+**The license of your data and any source data:** MIT License
 
 **A data type and description for each attribute in your data:**
 1. _Rank_: This column is the rank of the company based on their revenue in relation to other companies internationally.
